@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/node": "^13.13.5",
-    "electron": "^8.2.5",
+    "electron": "^9.4.0",
     "electron-app-scripts": "^1.0.1"
   }
 }
